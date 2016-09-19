@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "tip two/ViewController.swift"
+            timestampString = "495941947.96114"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "tip_two.ViewController.tipLable.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UILabel&gt;"
+                  moduleName = "tip two"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eqp479/Desktop/Desktop/_SPECIAL%20OPS/CodePath/Just%20The%20Tip/tip%20two/tip%20two/tip%20two/ViewController.swift"
+                  timestampString = "495943514.691911"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "42">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "tip_two.ViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; tip_two.ViewController"
+                  moduleName = "tip two"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eqp479/Desktop/Desktop/_SPECIAL%20OPS/CodePath/Just%20The%20Tip/tip%20two/tip%20two/tip%20two/ViewController.swift"
+                  timestampString = "495943514.693579"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "159">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "tip_two.ViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;tip_two.ViewController&gt;"
+                  moduleName = "tip two"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eqp479/Desktop/Desktop/_SPECIAL%20OPS/CodePath/Just%20The%20Tip/tip%20two/tip%20two/tip%20two/ViewController.swift"
+                  timestampString = "495943514.69509"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "88">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
