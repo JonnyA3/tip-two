@@ -30,7 +30,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Stupid fucking parentheses posin' as brackets. Took me 4 hours to decifer the cryptic error message and find the bastards.
 
 ## License
 
